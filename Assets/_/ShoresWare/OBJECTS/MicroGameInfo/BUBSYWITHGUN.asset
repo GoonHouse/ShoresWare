@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e3f3c3de211153418347983d7742509, type: 3}
+  m_Name: BUBSYWITHGUN
+  m_EditorClassIdentifier: 
+  itemInfo:
+    name: Undefined
+    description: An undefined MicroGame!
+    authorName: Author Unknown
+  previewImage: {fileID: 2800000, guid: ece28d9e972115b468aff827bc714494, type: 3}
+  command: Shoot
+  controlType: 1
+  musicTrack: {fileID: 11400000, guid: 56f42f20fd74677469d89b679f3080c8, type: 2}
+  lengthInBeats: 8
+  _sceneField:
+    m_SceneAsset: {fileID: 102900000, guid: 48b1cb6e118c4f641b173329218f2bf8, type: 3}
+    m_ScenePath: Assets/_/ShoresWare/Games/_ALIVE/BUBSYWITHGUN/BUBSYWITHGUN.unity
+  physicsMode: 0
+  backgroundColor: {r: 0.6509804, g: 0.43137255, b: 0.05882353, a: 1}
+  borderColor: {r: 1, g: 1, b: 1, a: 1}

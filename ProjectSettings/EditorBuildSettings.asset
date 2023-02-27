@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_/ShoresWare/Scenes/__ENTRY__.unity
+    guid: 0f0870f78745a754a9ca932a23e86b36
+  - enabled: 1
+    path: Assets/_/ShoresWare/Games/_ALIVE/NUT/NUT.unity
+    guid: 2f4792bb42797e346853fbf3a1b30ca6
+  - enabled: 1
+    path: Assets/_/ShoresWare/Games/_ALIVE/PS_REVENGE/PS_REVENGE.unity
+    guid: 654b545895cb1be41b0e73979ef0cef6
+  - enabled: 1
+    path: Assets/_/ShoresWare/Games/_ALIVE/HOSEDOWN/HOSEDOWN.unity
+    guid: 1ee884d4c8064854692971b5f55c277e
+  - enabled: 1
+    path: Assets/_/ShoresWare/Games/_ALIVE/SNIPPERCLIPS/SNIPPERCLIPS.unity
+    guid: b275c7d60c42f8d41a3f490121c507ad
+  - enabled: 1
+    path: Assets/_/ShoresWare/Games/_ALIVE/KIRBYSAYS/KIRBYSAYS.unity
+    guid: 2e97eb8d4dcfb904a9c64ba3caadb417
+  - enabled: 1
+    path: Assets/_/ShoresWare/Games/_COMPLETE_/PAINTMATCH/PAINTMATCH.unity
+    guid: fe9759609423b2046b2bcd4b614fa36a
+  - enabled: 1
+    path: Assets/_/ShoresWare/Games/_ALIVE/ALPHAOMEGA/ALPHAOMEGA.unity
+    guid: 487bdb72b66d4104e922a85e4af9a1a9
+  - enabled: 1
+    path: Assets/_/ShoresWare/Games/_ALIVE/BUBSYWITHGUN/BUBSYWITHGUN.unity
+    guid: 48b1cb6e118c4f641b173329218f2bf8
+  - enabled: 1
+    path: Assets/_/ShoresWare/Games/_ALIVE/FASTNUT/FASTNUT.unity
+    guid: bd79a59223b1e054cb1378ae483f6c36
+  - enabled: 1
+    path: Assets/_/ShoresWare/Games/_DEBUG/DBG_COMMAND/DBG_COMMAND.unity
+    guid: 6c45ae01c9673744db25503080d58d49
+  - enabled: 1
+    path: Assets/_/ShoresWare/Games/_DEBUG/DBG_IMAGESYNC/DBG_IMAGESYNC.unity
+    guid: 8f8780883bd3e4f4ea6f82644ec4f03b
+  - enabled: 1
+    path: Assets/_/ShoresWare/Games/_ALIVE/CATBATFEVER/CATBATFEVER.unity
+    guid: 5b7df5f30042ecf4c991b750377dad84
+  m_configObjects: {}

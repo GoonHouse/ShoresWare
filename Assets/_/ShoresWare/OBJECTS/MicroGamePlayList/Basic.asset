@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abb21c4b94144a72a7165029235954a1, type: 3}
+  m_Name: Basic
+  m_EditorClassIdentifier: 
+  itemInfo:
+    name: Undefined
+    description: An undefined MicroGame!
+    authorName: Author Unknown
+  previewImage: {fileID: 0}
+  microGames:
+  - {fileID: 11400000, guid: 90a3fae788b293c48a39a222acb8a8bb, type: 2}
+  - {fileID: 11400000, guid: bc17256489ff01e4f9dbc071b504f8d0, type: 2}
+  - {fileID: 11400000, guid: 2e8428a003c6ea24f9b052cdffda2916, type: 2}
+  - {fileID: 11400000, guid: 9d4a7001492329e43afe5916f0fecca4, type: 2}
+  - {fileID: 11400000, guid: ab6b6af60cbc87242b5deb55980eea5f, type: 2}
+  - {fileID: 11400000, guid: d109e9080ac045d4ea35248ade989b9a, type: 2}
+  - {fileID: 11400000, guid: e0a5218a417dcc444bf38684f97c1a55, type: 2}
+  - {fileID: 11400000, guid: 6d465e61b708ab64b858a52ffa090712, type: 2}
+  - {fileID: 11400000, guid: 018088fa48003e841832844955f5f369, type: 2}
+  - {fileID: 11400000, guid: 2b844403b1d57a045b4efdb1b8ef0c33, type: 2}
+  frameInfo:
+    borderColor: {r: 1, g: 1, b: 1, a: 1}
+    borderSprite: {fileID: 21300000, guid: 27d7b3e05112a4b4c9f5e2784fc03e9e, type: 3}
+    backgroundColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    backgroundSprite: {fileID: 21300000, guid: 28e077e1700af0446aeb767f32249211, type: 3}
